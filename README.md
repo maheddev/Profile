@@ -11,4 +11,4 @@
 🔥 Looking for challenging projects to work on and continuously improve my skills!
 
 📇 Feel free to contact me within my working hours (9:00AM - 6:00PM PST🇵🇰) at
-* [email](mailto:mahed442@gmail.com), [LinkedIn](https://www.linkedin.com/in/mahedshahzad), [Facebook](https://www.facebook.com/mahedshahzad)
+* [E-Mail](mailto:mahed442@gmail.com), [LinkedIn](https://www.linkedin.com/in/mahedshahzad), [Facebook](https://www.facebook.com/mahedshahzad)
