@@ -1,7 +1,7 @@
 🚀 I'm an Experienced React Native Developer
 
 * 💻 Proficient in building mobile apps for both iOS and Android platforms
-* 💡 Well-versed in React, JavaScript, and Redux
+* 💡 Well-versed in React-Native, JavaScript, TypeScript, and Redux
 * 📱 Experienced in integrating with RESTful APIs and backend services
 * 🔧 Comfortable with Git and familiar with Agile software development
 * 💬 Excellent communication and collaboration skills
